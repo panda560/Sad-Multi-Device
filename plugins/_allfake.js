@@ -47,15 +47,15 @@ handler.all = async function (m) {
 					description: 'simple bot esm',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pp)).buffer(),
-					sourceUrl: "https://github.com/FahriAdison",					
+					sourceUrl: "https://github.com/panda560",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/bot_whangsaf",
+            mediaUrl: "https://Instagram.com/arrezza20",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/bot_whangsaf", 
+            description: "https://Instagram.com/arrezza20", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
